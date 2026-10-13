@@ -1,0 +1,5 @@
+The LIN clone in this repository is original work published for audit of a published algorithm.
+
+The upstream GMX V2 Solidity algorithm (gmx-io/gmx-synthetics, commit a85ea3491c19c93bb4b5a002d9b358fb769b7849) is GPL-2.0-or-later after the BUSL-1.1 Change Date 2026-08-31.
+
+This repository does not claim uint256 / FLOAT=1e30 mainnet parity.
